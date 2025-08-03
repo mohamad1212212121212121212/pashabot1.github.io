@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>فروش ربات اتوترید متاتریدر 4</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Tahoma, Arial, sans-serif; background: #f7f7f7; margin: 0; }
+        header { background: #007bff; color: #fff; padding: 30px 0; text-align: center; }
+        nav { background: #222; padding: 10px; text-align: center; }
+        nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+        section { max-width: 700px; margin: 30px auto; background: #fff; padding: 30px; border-radius: 10px; }
+        h1, h2 { margin-top: 0; }
+        .product { border-bottom: 1px solid #eee; padding: 15px 0; }
+        .btn { background: #28a745; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; text-decoration: none; }
+        footer { background: #222; color: #fff; text-align: center; padding: 15px 0; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>فروش اشتراک ربات اتوترید متاتریدر 4</h1>
+        <p>ربات‌های حرفه‌ای برای معاملات خودکار در فارکس و کریپتو</p>
+    </header>
+    <nav>
+        <a href="index.html">خانه</a>
+        <a href="#products">محصولات</a>
+        <a href="#subscribe">خرید اشتراک</a>
+        <a href="#contact">تماس</a>
+    </nav>
+    <section id="products">
+        <h2>محصولات</h2>
+        <div class="product">
+            <h3>ربات EMA Trend</h3>
+            <p>ربات اتوترید بر اساس کراس میانگین متحرک (EMA) مخصوص متاتریدر 4</p>
+            <p>قیمت اشتراک ماهانه: <b>150 هزار تومان</b></p>
+        </div>
+        <div class="product">
+            <h3>ربات Sentiment Hybrid</h3>
+            <p>ترکیب تحلیل روند و سنتیمنت بازار، مخصوص متاتریدر 4</p>
+            <p>قیمت اشتراک ماهانه: <b>200 هزار تومان</b></p>
+        </div>
+    </section>
+    <section id="subscribe">
+        <h2>خرید اشتراک</h2>
+        <p>برای خرید اشتراک، روی دکمه زیر کلیک کنید و پس از پرداخت، رسید و ایمیل خود را برای ما ارسال کنید تا ربات برای شما ارسال شود.</p>
+        <a class="btn" href="https://zarinp.al/your-link" target="_blank">پرداخت با زرین‌پال</a>
+        <br><br>
+        <a class="btn" href="mailto:yourmail@gmail.com?subject=خرید ربات اتوترید">ارسال رسید پرداخت</a>
+        <p style="color: #888; font-size: 13px;">* پس از پرداخت، فایل ربات و راهنمای نصب برای شما ایمیل می‌شود.</p>
+    </section>
+    <section id="contact">
+        <h2>تماس با ما</h2>
+        <p>ایمیل: <a href="mailto:yourmail@gmail.com">yourmail@gmail.com</a></p>
+        <p>تلگرام: <a href="https://t.me/yourtelegram" target="_blank">@yourtelegram</a></p>
+    </section>
+    <footer>
+        &copy; 2024 فروش ربات اتوترید MT4 | تمامی حقوق محفوظ است.
+    </footer>
+</body>
+</html>
